@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 09 Jun 2020 21:36:06 at https://www.3daimtrainer.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.3daimtrainer.com/ -O1 "E:\MY AIM TRAINER SITE\AIMER" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:36:11	Warning: 	Found for https://www.3daimtrainer.com/robots.txt
+21:36:11	Warning: 	File has moved from https://www.3daimtrainer.com/robots.txt to https://www.3daimtrainer.com/index.php
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 1 seconds : 15 links scanned, 14 files written (756166 bytes overall) [370750 bytes received at 2048 bytes/sec], 705806 bytes transferred using HTTP compression in 12 files, ratio 29%, 21.1 requests per connection
+(No errors, 2 warnings, 0 messages)

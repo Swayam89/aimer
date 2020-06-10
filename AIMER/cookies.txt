@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.3daimtrainer.com	TRUE	/	FALSE	1999999999	__cfduid	d4a3394ae6f6aff64cfb6eb8382fe97ef1591718771
+www.3daimtrainer.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+www.3daimtrainer.com	TRUE	/	FALSE	1999999999	PHPSESSID	dfca772086647ba32fba5be5d6c72143
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d07478f91633842f300e62efaae579d861591718772
+ajax.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
